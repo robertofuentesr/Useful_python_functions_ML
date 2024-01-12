@@ -7,9 +7,18 @@ in a simple situation seeing empirically their intrinsic value.
 
 Some of the functions already explained are: 
 * train_test_split
+* Pipeline
 * KNNImputer
 * ColumnTransformer
 * RandomizedSearchCV
 * RandomForestClassifier
+* ROC and AUC (working with predict_proba)
+* confusion_matrix
 
+There are other exciting new topics like graph theory! 
+* I already created and analyzed some networks.
+* I worked with data in JSON format.
+* I also worked with real data about connections between actors/actresses and directors.
+* And I couldn't leave behind some interesting theory!
 
+All the code is actively revised and I will be continuing to upload code here, so keep it tuned in!
