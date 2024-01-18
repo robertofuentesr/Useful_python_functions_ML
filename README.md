@@ -13,7 +13,7 @@ Some of the functions already explained are:
 * RandomizedSearchCV
 * RandomForestClassifier
 * ROC and AUC (working with predict_proba)
-* confusion_matrix
+* Confusion_matrix
 
 There are other exciting new topics like graph theory! 
 * I already created and analyzed some networks.
