@@ -10,10 +10,14 @@ Some of the functions already explained are:
 * Pipeline
 * KNNImputer
 * ColumnTransformer
+* Cross-validation
 * RandomizedSearchCV
 * RandomForestClassifier
 * ROC and AUC (working with predict_proba)
 * Confusion_matrix
+* SHAP and permutation_importance (explaining how the model/pipeline makes predictions)
+* Time series Analysis
+* PCA and SVD
 
 There are other exciting new topics like graph theory! 
 * I already created and analyzed some networks.
