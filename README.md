@@ -18,6 +18,7 @@ Some of the functions already explained are:
 * SHAP and permutation_importance (explaining how the model/pipeline makes predictions)
 * Time series Analysis
 * PCA and SVD
+* Target Encoding
 
 There are other exciting new topics like graph theory! 
 * I already created and analyzed some networks.
