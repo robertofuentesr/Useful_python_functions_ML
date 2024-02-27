@@ -22,9 +22,7 @@
 
 <h1 align="center">About this Repo</h1>
 
-<h5 align="center"> Here I will upload codes to analyze data using typical and useful functions in Python. Using the simplest possible code we will understand how to use these functions.
-
-More than giving a lengthy explanation we're going to use these various functions, in a simple situation seeing empirically their intrinsic value. These functions are easy to use so you can try them in your projects! </h5>
+<h5 align="center"> Here I will upload codes to analyze data using typical and useful functions in Python. Using the simplest possible code we will understand how to use these functions. More than giving a lengthy explanation we're going to use these various functions, in a simple situation seeing empirically their intrinsic value. These functions are easy to use so you can try them in your projects! </h5>
 
 <h1 align="center"> Some of the functions already explained are:  </h1>
 <h2 align="center"> Feature engineering  </h2>
