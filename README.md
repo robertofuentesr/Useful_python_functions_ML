@@ -36,7 +36,13 @@
 - ColumnTransformer
   
 - Target Encoding
-  
+
+<h2 align="center"> Dimensionality reduction </h2>
+
+- PCA 
+
+- SVD
+    
 <h2 align="center"> Evaluating models and selecting the right model </h2>
 
 - Cross-validation
@@ -46,24 +52,19 @@
 - ROC and AUC (working with predict_proba)
 
 - Confusion_matrix
-  
-<h2 align="center"> Explaining the model </h2>
 
-- SHAP 
-
-- Permutation Importance 
-<h2 align="center"> Dimensionality reduction </h2>
-
-- PCA 
-
-- SVD
-  
 <h2 align="center"> Models </h2>
 
 - Hybrid models for time series (Regression + ensemble)
   
 - Random Forest Classifier
+  
+<h2 align="center"> Explaining the model </h2>
 
+- SHAP 
+
+- Permutation Importance
+  
 <h2 align="center"> Miscellaneous </h2>
 <h3 align="center"> Graph Theory </h3>
 
