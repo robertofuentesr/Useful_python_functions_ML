@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roberto Fuentes Risco</h1>
 <h3 align="center">A passionate Data Scientist from Chile</h3>
 
-- 🔭 I’m currently working on [Creating different analysis using Python, for easy use in projects](https://github.com/robertofuentesr/Useful_python_functions_ML/tree/main)
+- 🔭 I’m currently working on [Creating different analyses using Python, for easy use in projects](https://github.com/robertofuentesr/Useful_python_functions_ML/tree/main)
 
 - 📝 I regularly write articles on [https://aprendeingenieria.com/autor/](https://aprendeingenieria.com/autor/)
 
@@ -28,31 +28,50 @@ More than giving a lengthy explanation we're going to use these various function
 
 <h1 align="center"> Some of the functions already explained are:  </h1>
 <h2 align="center"> Feature engineering  </h2>
+
 - train_test_split
+
 - Pipeline
+ 
 - KNNImputer
+  
 - ColumnTransformer
+  
 - Target Encoding
+  
 <h2 align="center"> Evaluating models and selecting the right model </h2>
+
 - Cross-validation
+
 - RandomizedSearchCV
+  
 - ROC and AUC (working with predict_proba)
+
 - Confusion_matrix
+  
 <h2 align="center"> Explaining the model </h2>
+
 - SHAP 
+
 - Permutation Importance 
 <h2 align="center"> Dimensionality reduction </h2>
+
 - PCA 
+
 - SVD
+  
 <h2 align="center"> Models </h2>
+
 - Hybrid models for time series (Regression + ensemble)
+  
 - Random Forest Classifier
 
 <h2 align="center"> Miscellaneous </h2>
 <h3 align="center"> Graph Theory </h3>
-* I already created and analyzed some networks.
+
+* I created and analyzed some networks.
 * I worked with data in JSON format.
 * I also worked with real data about connections between actors/actresses and directors.
 * And I couldn't leave behind some interesting theory!
 
-All the code is actively revised and I will be continuing to upload code here, so keep it tuned in!
+All the code is actively revised and I will be continuing uploading code here, so keep it tuned in!
