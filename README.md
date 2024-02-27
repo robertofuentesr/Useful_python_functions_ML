@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist from Chile</h3>
 
 - 🔭 I’m currently working on this REPO
-- 
+  
 - 📝 I regularly write articles on [https://aprendeingenieria.com/autor/](https://aprendeingenieria.com/autor/)
 
 - 📫 How to reach me **rrisco1990@gmail.com**
