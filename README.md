@@ -26,7 +26,7 @@
 
 More than giving a lengthy explanation we're going to use these various functions, in a simple situation seeing empirically their intrinsic value. These functions are easy to use so you can try them in your projects! </h5>
 
-Some of the functions already explained are: 
+<h1 align="center"> Some of the functions already explained are:  </h1>
 <h2 align="center"> Feature engineering  </h2>
 - train_test_split
 - Pipeline
