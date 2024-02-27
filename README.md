@@ -33,6 +33,8 @@
 - PCA 
 
 - SVD
+
+- T-SNE
     
 <h2 align="center"> Evaluating models and selecting the right model </h2>
 
@@ -44,11 +46,15 @@
 
 - Confusion_matrix
 
-<h2 align="center"> Models </h2>
+<h2 align="center"> Models and Analyses </h2>
 
 - Hybrid models for time series (Regression + ensemble)
   
 - Random Forest Classifier
+
+- Gaussian mixture model (GMM)
+
+- A/B Testing
   
 <h2 align="center"> Explaining the model </h2>
 
