@@ -13,7 +13,19 @@
 
 <h1 align="center">About this Repo</h1>
 
-<h5 align="center"> Here I will upload codes to analyze data using typical and useful functions in Python. Using the simplest possible code we will understand how to use these functions. More than giving a lengthy explanation we're going to use these various functions, in a simple situation seeing empirically their intrinsic value. These functions are easy to use so you can try them in your projects! </h5>
+<h5 align="center"> Here I will upload codes to analyze data using typical and useful functions in Python. Using the simplest possible code I will solve different business-related problems. Some questions that will be answered are:
+  
+- ¿How can I know if someone would like this movie/product (recommendation systems)?
+  
+- ¿How can I predict the demand for my different products through time (Time series)?
+
+- ¿How can I predict which clients are going to leave my company (churn rate, classification problem)?
+
+- ¿How much does my product cost (predicting a numerical value)?
+
+- ¿How can I clean and understand my data (Feature engineering, Dimensionality reduction, EDA, and Shap analysis)?
+
+</h5>
 
 <h1 align="center"> Some of the functions already explained are:  </h1>
 <h2 align="center"> Feature engineering  </h2>
