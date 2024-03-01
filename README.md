@@ -50,11 +50,13 @@
 
 - Hybrid models for time series (Regression + ensemble)
   
-- Random Forest Classifier
+- Random Forest Classifier and Regressor
 
 - Gaussian mixture model (GMM)
 
 - A/B Testing
+
+- Collaborative Filtering (Recommendation System)
   
 <h2 align="center"> Explaining the model </h2>
 
