@@ -27,7 +27,7 @@
 
 </p>
 
-<h1 align="center"> Some of the functions already explained are:  </h1>
+<h1 align="center"> Some analyses already done in this repo are:  </h1>
 <h2 align="center"> Feature engineering  </h2>
 
 - train_test_split
