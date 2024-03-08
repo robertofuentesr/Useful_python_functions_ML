@@ -28,17 +28,19 @@
 </p>
 
 <h1 align="center"> What will you find in this repo?  </h1>
-<h2 align="center"> Feature engineering  </h2>
+<h2 align="center"> Feature engineering and selecting training/validation/test data </h2>
 
 - train_test_split
-
-- Pipeline
  
 - KNNImputer
   
 - ColumnTransformer
   
 - Target Encoding
+
+- Pipeline
+
+- Undersampling and Oversampling (for Imbalanced datasets)
 
 <h2 align="center"> Dimensionality reduction </h2>
 
@@ -53,10 +55,10 @@
 - Cross-validation
 
 - RandomizedSearchCV
-  
-- ROC and AUC (working with predict_proba)
 
-- Confusion_matrix
+- Fine-tuning models for imbalanced datasets (changing weights, modifying threshold in predict_proba, analyzing confusion matrix with F1-score)
+  
+- ROC and AUC 
 
 <h2 align="center"> Models and Analyses </h2>
 
