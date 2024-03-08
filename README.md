@@ -38,7 +38,7 @@
   
 - ColumnTransformer
   
-- Target Encoding
+- Target Encoding and One-hot encoding
 
 - Pipeline
 
