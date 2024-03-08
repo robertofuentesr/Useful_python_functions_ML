@@ -31,6 +31,8 @@
 <h2 align="center"> Feature engineering and selecting training/validation/test data </h2>
 
 - train_test_split
+
+- Undersampling and Oversampling (for Imbalanced datasets)
  
 - KNNImputer
   
@@ -39,8 +41,6 @@
 - Target Encoding
 
 - Pipeline
-
-- Undersampling and Oversampling (for Imbalanced datasets)
 
 <h2 align="center"> Dimensionality reduction </h2>
 
