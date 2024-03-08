@@ -86,7 +86,7 @@
 * I also worked with real data about connections between actors/actresses and directors.
 * And I couldn't leave behind some interesting theory!
 
-All the code is actively revised and I will be continuing uploading code here, so keep it tuned in!
+All the code is actively revised and I will be continuing uploading code here, so stay tuned!
 
 
 
