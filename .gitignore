@@ -1,6 +1,7 @@
 # ignore files
 # we just have two files test and train both are cvs
 **.csv
+**.txt
 **.json
 **.pickle
 .ipynb_checkpoints
