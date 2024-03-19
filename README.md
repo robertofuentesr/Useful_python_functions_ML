@@ -58,7 +58,7 @@
 
 - RandomizedSearchCV
 
-- Fine-tuning models for imbalanced datasets (changing weights, modifying threshold in predict_proba, analyzing confusion matrix with F1-score)
+- Fine-tuning models for imbalanced datasets (changing weights, modifying threshold in predict_proba, analyzing confusion matrix and F1-score)
   
 - ROC and AUC 
 
