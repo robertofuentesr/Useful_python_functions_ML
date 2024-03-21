@@ -74,7 +74,9 @@
 
 - Collaborative Filtering (Recommendation System)
 
-- Sentiment Analysis 
+- Sentiment Analysis
+
+- Convolution neural network and Transfer learning
   
 <h2 align="center"> Explaining the model </h2>
 
