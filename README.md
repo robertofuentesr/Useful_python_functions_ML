@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I like to learn languages**
 
--  I have a Specialization Certificate in **Deep Learning** from 2020, you can see it here: [[coursera](https://www.coursera.org/account/accomplishments/specialization/GBN2WB4SZYRT)]
+-  I have a Specialization Certificate in **Deep Learning** from 2020, you can see it here: [coursera(https://www.coursera.org/account/accomplishments/specialization/GBN2WB4SZYRT)]
 
 <h1 align="center">About this Repo</h1>
 
