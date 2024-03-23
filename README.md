@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I like to learn languages**
 
+-  I have a Specialization Certificate in **Deep Learning** from 2020, you can see it here: [[https://www.linkedin.com/in/roberto-fuentes-risco/](https://www.coursera.org/account/accomplishments/specialization/GBN2WB4SZYRT)]
+
 <h1 align="center">About this Repo</h1>
 
 <p align="center"> Here I will upload codes to analyze data using typical and useful functions in Python. Using the simplest possible code I will solve different business-related problems. Some questions that will be answered are:
