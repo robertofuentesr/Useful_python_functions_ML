@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/roberto-fuentes-risco/](https://www.linkedin.com/in/roberto-fuentes-risco/)
 
-- :student: I am an Industrial Engineer from the University of Chile and have a **Specialization Certificate in Deep Learning from 2020**, you can see it here: [Coursera](https://www.coursera.org/account/accomplishments/specialization/GBN2WB4SZYRT). You can also check other specialization that I have on my Linkedin above :point_up_2:.
+- :student: I am an Industrial Engineer from the University of Chile and have a **Specialization Certificate in Deep Learning from 2020**, you can see it here: [Coursera](https://www.coursera.org/account/accomplishments/specialization/GBN2WB4SZYRT). You can also check other specializations that I have on my Linkedin above :point_up_2:.
 
 - ⚡ Fun fact **I like to learn languages**
 
@@ -17,17 +17,19 @@
 
 <p align="center"> Here I will upload codes to analyze data using typical and useful functions in Python. Using the simplest possible code I will solve different business-related problems. Some questions that will be answered are:
   
-- How can I know if someone would like this movie/product? (recommendation systems)
+- How can I know if someone would like this movie/product? (**recommendation systems**)
   
-- How can I predict the demand for my different products through time? (Time series)
+- How can I predict the demand for my different products over time? (**Time series**)
 
-- How can I predict which clients are going to leave my company? (churn rate, classification problem)
+- How can I predict which clients are going to leave my company? (**churn rate, classification problem**)
 
-- How much does my product cost? (predicting a numerical value)
+- How much does my product cost? (**predicting a numerical value**)
 
-- My clients comment a lot, how can I know if they are saying nice things about my product or not? (Sentiment Analysis)
+- My clients comment a lot, how can I know if they are saying nice things about my product or not? (**Sentiment Analysis**)
 
-- How can I clean and understand my data? (Feature engineering, Dimensionality reduction, EDA, and Shap analysis)
+- How can I clean and understand my data? (**Feature engineering, Dimensionality reduction, EDA, and Shap analysis**)
+
+- I have lots of images, how can I classify them? (**Convolutional neural networks**)
 
 </p>
 
