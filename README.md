@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I like to learn languages**
 
-- :student: I am an Industrial Engineer from the University of Chile and have a **Specialization Certificate in Deep Learning from 2020**, you can see it here: [Coursera](https://www.coursera.org/account/accomplishments/specialization/GBN2WB4SZYRT) You can also check other specialization that I have on my Linkedin above :point_up_2:.
+- :student: I am an Industrial Engineer from the University of Chile and have a **Specialization Certificate in Deep Learning from 2020**, you can see it here: [Coursera](https://www.coursera.org/account/accomplishments/specialization/GBN2WB4SZYRT). You can also check other specialization that I have on my Linkedin above :point_up_2:.
 
 <h1 align="center">About this Repo</h1>
 
