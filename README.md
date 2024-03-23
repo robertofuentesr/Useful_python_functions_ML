@@ -17,13 +17,13 @@
 
 <p align="center"> Here I will upload codes to analyze data using typical and useful functions in Python. Using the simplest possible code I will solve different business-related problems. Some questions that will be answered are:
   
-- How can I know if someone would like this movie/product? (**recommendation systems**)
+- How can I know if someone would like this movie/product? (**Recommendation systems**)
   
 - How can I predict the demand for my different products over time? (**Time series**)
 
-- How can I predict which clients are going to leave my company? (**churn rate, classification problem**)
+- How can I predict which clients are going to leave my company? (**Churn rate, classification problem**)
 
-- How much does my product cost? (**predicting a numerical value**)
+- How much does my product cost? (**Predicting a numerical value**)
 
 - My clients comment a lot, how can I know if they are saying nice things about my product or not? (**Sentiment Analysis**)
 
