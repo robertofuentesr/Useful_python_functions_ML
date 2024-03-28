@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/roberto-fuentes-risco/](https://www.linkedin.com/in/roberto-fuentes-risco/)
 
-- :student: I am an Industrial Engineer from the University of Chile and have a **Specialization Certificate in Deep Learning from 2020**, you can see it here: [Coursera](https://www.coursera.org/account/accomplishments/specialization/GBN2WB4SZYRT). You can also check other specializations that I have on my Linkedin above :point_up_2:.
+- :student: I am an Industrial Engineer from the University of Chile (2017) and have a **Specialization Certificate in Deep Learning from 2020**, you can see it here: [Coursera](https://www.coursera.org/account/accomplishments/specialization/GBN2WB4SZYRT). You can also check other specializations that I have on my Linkedin above :point_up_2:.
 
 - ⚡ Fun fact **I like to learn languages**
 
