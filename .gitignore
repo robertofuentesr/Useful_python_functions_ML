@@ -1,11 +1,12 @@
 # ignore files
 # we just have two files test and train both are cvs
 **.csv
-**.txt
+#**.txt
 **.json
 **.jpg
 **.pickle
 **logs
+**dracula**
 # this last one is just in case. Maybe, I will save some models in GitHub like computer vision 
 **.keras
 .ipynb_checkpoints
