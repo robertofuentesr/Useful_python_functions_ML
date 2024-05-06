@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roberto Fuentes Risco</h1>
 <h3 align="center">A passionate Data Scientist from Chile</h3>
 
-- 🔭 I’m currently working on this REPO
+- 🔭 I’m currently working on this REPO and on
+Deep Reinforcement Learning [https://huggingface.co/RobertoFuentesRisco](https://huggingface.co/RobertoFuentesRisco)
   
 - 📝 I regularly write articles on [https://aprendeingenieria.com/autor/](https://aprendeingenieria.com/autor/)
 
