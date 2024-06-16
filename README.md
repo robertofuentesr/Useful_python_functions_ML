@@ -37,13 +37,13 @@ Deep Reinforcement Learning [https://huggingface.co/RobertoFuentesRisco](https:/
 <h1 align="center"> What will you find in this repo?  </h1>
 <h2 align="center"> Feature engineering and selecting training/validation/test data </h2>
 
-- train_test_split
+- Train/Validation/Test split
 
 - Undersampling and Oversampling (for Imbalanced datasets)
  
 - KNNImputer
   
-- ColumnTransformer
+- Column Transformer
   
 - Target Encoding and One-hot encoding
 
