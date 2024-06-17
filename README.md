@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roberto Fuentes Risco</h1>
 <h3 align="center">A passionate Data Scientist from Chile</h3>
 
-- 🔭 I’m currently working on this REPO
+- 🔭 I’m currently working on this REPO and on
+Deep Reinforcement Learning [https://huggingface.co/RobertoFuentesRisco](https://huggingface.co/RobertoFuentesRisco)
   
 - 📝 I regularly write articles on [https://aprendeingenieria.com/autor/](https://aprendeingenieria.com/autor/)
 
@@ -36,13 +37,13 @@
 <h1 align="center"> What will you find in this repo?  </h1>
 <h2 align="center"> Feature engineering and selecting training/validation/test data </h2>
 
-- train_test_split
+- Train/Validation/Test split
 
 - Undersampling and Oversampling (for Imbalanced datasets)
  
 - KNNImputer
   
-- ColumnTransformer
+- Column Transformer
   
 - Target Encoding and One-hot encoding
 
