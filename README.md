@@ -69,11 +69,11 @@ Deep Reinforcement Learning [https://huggingface.co/RobertoFuentesRisco](https:/
 
 <h2 align="center"> Models and Analyses </h2>
 
-- Hybrid models for time series (Regression + ensemble)
+- Hybrid models for time series (Regression + ensemble) [Spanish Version]
   
 - Random Forest Classifier and Regressor
 
-- Gaussian mixture model (GMM)
+- Gaussian mixture model (GMM) [Spanish and English Version]
 
 - A/B Testing
 
