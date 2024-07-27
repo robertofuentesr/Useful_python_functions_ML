@@ -75,6 +75,8 @@ Deep Reinforcement Learning [https://huggingface.co/RobertoFuentesRisco](https:/
 
 - Gaussian mixture model (GMM) [Spanish and English Version]
 
+- Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
+
 - A/B Testing
 
 - Collaborative Filtering (Recommendation System)
