@@ -6,6 +6,8 @@ Deep Reinforcement Learning [https://huggingface.co/RobertoFuentesRisco](https:/
   
 - 📝 I regularly write articles on [https://aprendeingenieria.com/autor/](https://aprendeingenieria.com/autor/)
 
+- 📝 You can also check my streamlit project (just beginning): [[https://aprendeingenieria.streamlit.app/)](https://aprendeingenieria.streamlit.app/)
+
 - 📫 How to reach me **rrisco1990@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/roberto-fuentes-risco/](https://www.linkedin.com/in/roberto-fuentes-risco/)
