@@ -1,4 +1,4 @@
-name: Auto Format Notebooks
+name: auto-format-notebooks
 
 on:
   push:
